@@ -1,1 +1,0 @@
-setTimeout(AOS.init(), 5000);
